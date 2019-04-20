@@ -1,0 +1,4 @@
+/node_modules
+/dist
+#개발툴 제외
+.idea
